@@ -14,6 +14,7 @@
 		8E6BE1A727FEBD6400E8D14B /* ArtBook.xcdatamodeld in Sources */ = {isa = PBXBuildFile; fileRef = 8E6BE1A527FEBD6400E8D14B /* ArtBook.xcdatamodeld */; };
 		8E6BE1A927FEBD7000E8D14B /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 8E6BE1A827FEBD7000E8D14B /* Assets.xcassets */; };
 		8E6BE1AC27FEBD7000E8D14B /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 8E6BE1AA27FEBD7000E8D14B /* LaunchScreen.storyboard */; };
+		8E6BE1B427FEC15500E8D14B /* DetailsViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8E6BE1B327FEC15500E8D14B /* DetailsViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -26,6 +27,7 @@
 		8E6BE1A827FEBD7000E8D14B /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		8E6BE1AB27FEBD7000E8D14B /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		8E6BE1AD27FEBD7000E8D14B /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		8E6BE1B327FEC15500E8D14B /* DetailsViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DetailsViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -61,6 +63,7 @@
 				8E6BE19C27FEBD6400E8D14B /* AppDelegate.swift */,
 				8E6BE19E27FEBD6400E8D14B /* SceneDelegate.swift */,
 				8E6BE1A027FEBD6400E8D14B /* ViewController.swift */,
+				8E6BE1B327FEC15500E8D14B /* DetailsViewController.swift */,
 				8E6BE1A227FEBD6400E8D14B /* Main.storyboard */,
 				8E6BE1A827FEBD7000E8D14B /* Assets.xcassets */,
 				8E6BE1AA27FEBD7000E8D14B /* LaunchScreen.storyboard */,
@@ -145,6 +148,7 @@
 				8E6BE19D27FEBD6400E8D14B /* AppDelegate.swift in Sources */,
 				8E6BE1A727FEBD6400E8D14B /* ArtBook.xcdatamodeld in Sources */,
 				8E6BE19F27FEBD6400E8D14B /* SceneDelegate.swift in Sources */,
+				8E6BE1B427FEC15500E8D14B /* DetailsViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
